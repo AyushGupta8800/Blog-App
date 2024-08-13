@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple-Flask-Blog-Project
 A blog website project which uses flask micro web framework for backend and mysql for database...
 
@@ -51,3 +52,7 @@ from flask import render_template
 APIs with JSON¶
 
 A common response format when writing an API is JSON. It’s easy to get started writing such an API with Flask. If you return a dict from a view, it will be converted to a JSON response.
+=======
+# Blog-App
+Developed a dynamic Blog Website where a user can post Blogs. Integrated the website with CRUD Functionalities, using Flask as a Framework and Sqlite as a Database.
+>>>>>>> 2b032f3af06606c398c195c2043805607df3bb28
